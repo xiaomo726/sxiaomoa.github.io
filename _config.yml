@@ -21,7 +21,7 @@ repository               : "xioamo726/sxiaomoa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" #头像
+  avatar           : "https://s21.ax1x.com/2024/12/01/pAIpxvF.jpg" #头像
   name             : "潇沫子"
   pronouns         : "she"# example: "she/her"  
   bio              : "这个人很懒，什么也没有留下"
