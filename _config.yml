@@ -258,7 +258,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: 项目进行时
+      type: publications
     values:
       layout: single
       author_profile: true
