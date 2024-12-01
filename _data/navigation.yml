@@ -5,22 +5,22 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  - title: "项目进行中"
     url: /publications/
 
-  - title: "Talks"
+  - title: "笔记记录中"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "课程学习中"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "日志加载中"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "快乐干饭中"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "美景拍照中"
     url: /cv/
     
   - title: "Guide"
